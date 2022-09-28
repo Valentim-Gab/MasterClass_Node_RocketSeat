@@ -7,18 +7,8 @@
     {
       "name": "Facebook",
       "url": "https://www.facebook.com"
-    },
-    {
-      "name": "Kuroko",
-      "url": "http://www.animesonline.cz"
-    },
-    {
-      "name": "Moodle",
-      "url": "https://ead06.proj.ufsm.br/course/view.php?id=60577"
-    },
-    {
+    },{
       "name": "Sobus",
       "url": "https://github.com/Valentim-Gab/sobus/blob/master/src/main/java/br/ufsm/csi/so/server/Request.java"
     }
   ]
-}
