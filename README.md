@@ -3,7 +3,7 @@ Server and API made in JavaScript with NodeJS based on practices taught by Rocke
 
 ```bash
 
-Using: {
+Using {
   Database:
     - JSON File;
 
