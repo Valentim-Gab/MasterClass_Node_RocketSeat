@@ -1,7 +1,5 @@
 # MasterClass_Node_RocketSeat
-Server and API made in JavaScript with NodeJS based on practices taught by Rocketseat.
-
-Server and API creted in JavaScript 
+Server and API made in JavaScript with NodeJS based on practices taught by Rocketseat. 
 
 ```bash
 
